@@ -187,6 +187,16 @@ Rewrite his paragraph in an academic language: [PARAGRAPH]
 ```
 
 ```
+Help me revise the following text from an academic paper, make it academic, grammatically correct, stronger, and more convincing: [PARAGRAPH]
+```
+
+```
+Fix spelling and grammar. Make sentences more clear and concise. Split up run-on sentences. Reduce repetition. When replacing words, do not make them more complex or difficult than the original. If the text contains quotes, repeat the text inside the quotes verbatim. Keep the original markdown format. Do not use overly formal language.
+Input:
+[PARAGRAPH]
+```
+
+```
 Paraphrase the text using more academic and scientific language. Use a neutral tone and avoid repetitions of words and phrases. [PARAGRAPH]
 ```
 
